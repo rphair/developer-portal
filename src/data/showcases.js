@@ -1146,7 +1146,7 @@ export const Showcases = [
   },
   { 
     title: "Anvil Agency",
-    description: "Anvil provides advanced solutions for Web3 projects through a variety of services.",
+    description: "Anvil provides advanced solutions for Web3 projects through token minting, staking, airdrop, snapshot, and custom / bespoke services.",
     preview: require("./showcase/anvil.png"),
     website: "https://ada-anvil.io/",
     source: null,
